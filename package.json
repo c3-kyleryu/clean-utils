@@ -13,7 +13,9 @@
   "author": "c3-kyleryu",
   "license": "MIT",
   "dependencies": {
-    "shell-quote": "1.6.1"
+    "shell-quote": "1.6.1",
+    "ejs": "3.1.7",
+
   },
   "devDependencies": {
     "jest": "29.7.0",
