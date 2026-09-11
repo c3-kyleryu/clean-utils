@@ -12,7 +12,9 @@
   },
   "author": "c3-kyleryu",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+      "shell-quote": "1.6.0"
+  },
   "devDependencies": {
     "jest": "29.7.0",
     "eslint": "8.57.0"
